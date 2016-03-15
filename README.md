@@ -2,8 +2,8 @@
 The aim of the project is to analyze the comments from ekşi sözlük about kitapyurdu.com.
 
 ##Requirements
-NLTK
-Scrapy
+* NLTK
+* Scrapy
 
 ##Run
 python
