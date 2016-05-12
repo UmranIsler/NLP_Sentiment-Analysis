@@ -2,11 +2,9 @@
 The aim of the project is to analyze the comments from ekşi sözlük about kitapyurdu.com.
 
 ##Requirements
-* NLTK
+* Weka
 * Scrapy
-
-##Run
-python
+* R
 
 ##Project Development Steps
 * fetch the comments from ekşi sözlük
