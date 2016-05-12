@@ -1,0 +1,1 @@
+java -cp weka.jar weka.filters.unsupervised.attribute.StringToWordVector -b - i C:\(directory) .posneg.arff -o C:\(directory).train.arff -r C:\(directory).test.arff -s C:\(directory).test1.arff
